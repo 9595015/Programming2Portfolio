@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Programming 2 Portfolio
+## Gabriel Krivian
+Inline-style: 
+![alt text](https://9595015.github.io/Programming2Portfolio/pic1.png "Logo Title Text 1")
+
+
+https://9595015.github.io/Programming2Portfolio/pic1.png
 
 You can use the [editor on GitHub](https://github.com/9595015/Programming2Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
