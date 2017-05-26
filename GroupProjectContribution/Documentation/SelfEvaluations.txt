@@ -1,0 +1,12 @@
+Self-Evaluations
+
+Kanishka Ragula - I spend a majority of my time on this project planning and designing the basic gameplay and logic as well as assingning the group tasks on what to individually complete.  I programmed the movement of the background and enemies.  I worked with Zach to display the images.  I spent 86 hours working on this project over the duration of its existence.  
+
+Colin Shen - 
+
+Gabe Krivian - I spent the majority of my time writing the LEAP resume and constructing the portfolio for the game. I also worked with Kanishka and Colin to come up with a simple storyline for the game as well as make sure there was an educational element to the project as a whole. I spent 20 hours working on this project.
+
+Sam Cookson - Creating the button class as well as working on documentation accounts for most of the work I contributed to this project. I worked with Zach to design some of the game's images in Photoshop and Piskel. I focused on boosting team morale with humor and positive reinforcement. I spent 10 hours working on this project.
+
+Zach Post - I spent the majority of my time working with the graphics, I helped with small things as well. I worked with Kanishka to help implement the sprites I made into the game. I spent 25 hours working on this project
+

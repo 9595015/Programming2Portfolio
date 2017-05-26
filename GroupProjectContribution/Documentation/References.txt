@@ -1,0 +1,10 @@
+List of References
+
+Animation Tutorial: https://processing.org/examples/animatedsprite.html
+
+Audio:
+https://www.youtube.com/watch?v=vBikyFuUqkg Waterflame.
+https://www.youtube.com/watch?v=ZXHO4AN_49Q Waterflame.
+https://www.youtube.com/watch?v=yanwIwtlzEI Waterflame.
+
+Images: https://clipartfest.com/download/634ffe219d95a2434c82810fb2b1676e73c5e999.html 
