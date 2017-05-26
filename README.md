@@ -17,12 +17,14 @@ Parameters asked in app
 ### Arduino based Smartwatch
 
 ![alt text](https://9595015.github.io/Programming2Portfolio/ArduinoSmartWatch/IMG_1246.png "Logo Title Text 1")
+Shot 1
 
 ![alt text](https://9595015.github.io/Programming2Portfolio/ArduinoSmartWatch/IMG_1247.png "Logo Title Text 1")
+Shot 2
 
 ![alt text](https://9595015.github.io/Programming2Portfolio/ArduinoSmartWatch/IMG_1248.png "Logo Title Text 1")
+Shot 3
 
-Various shots of hardware running software
 
 You can use the [editor on GitHub](https://github.com/9595015/Programming2Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
