@@ -11,7 +11,8 @@ Stock Investor analyzing AAPL
 
 ### How Old are You App
 
-![alt text](https://9595015.github.io/Programming2Portfolio/pic1.png "Logo Title Text 1")
+![alt text](https://9595015.github.io/Programming2Portfolio/HowOldAreYou/whatbeurage.png "Logo Title Text 1")
+Parameters asked in app
 
 ### Arduino based Smartwatch
 
