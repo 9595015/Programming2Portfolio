@@ -2,16 +2,19 @@
 ## Gabriel Krivian
 ### Email: gabekrivian@gmail.com
 
-Inline-style Example: 
-![alt text](https://9595015.github.io/Programming2Portfolio/pic1.png "Logo Title Text 1")
-
 ## Screen Captures
 
 ### Stock Investor
 
 ![alt text](https://9595015.github.io/Programming2Portfolio/pic1.png "Logo Title Text 1")
 
+### How Old are You App
 
+![alt text](https://9595015.github.io/Programming2Portfolio/pic1.png "Logo Title Text 1")
+
+### Arduino based Smartwatch
+
+![alt text](https://9595015.github.io/Programming2Portfolio/pic1.png "Logo Title Text 1")
 
 
 
