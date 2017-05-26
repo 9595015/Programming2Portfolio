@@ -16,20 +16,12 @@ Parameters asked in app
 
 ### Arduino based Smartwatch
 
-![alt text](https://9595015.github.io/Programming2Portfolio/pic1.png "Logo Title Text 1")
+![alt text](https://9595015.github.io/Programming2Portfolio/ArduinoSmartWatch/IMG_1246 (1).JPG "Logo Title Text 1")
+![alt text](https://9595015.github.io/Programming2Portfolio/ArduinoSmartWatch/IMG_1247 (1).JPG "Logo Title Text 1")
+![alt text](https://9595015.github.io/Programming2Portfolio/ArduinoSmartWatch/IMG_1248 (1).JPG "Logo Title Text 1")
 
-
-
-
+Various shots of hardware running software
 
 You can use the [editor on GitHub](https://github.com/9595015/Programming2Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
